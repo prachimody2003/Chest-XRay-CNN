@@ -1,4 +1,5 @@
 /chest_xray/
+/chest_xray_cnn.keras
 /.venv/
 /.idea/
 __pycache__/
